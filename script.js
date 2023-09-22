@@ -9,3 +9,6 @@ function toggleMode() {
 
     //html.classList.toggle('light')
 }
+
+alert('Olá bonequinha inflável')
+alert('Bom dia primeiramente!')
