@@ -9,5 +9,3 @@ function toggleMode() {
 
     //html.classList.toggle('light')
 }
-
-alert('Olá, seja muito bem-vindo !')
