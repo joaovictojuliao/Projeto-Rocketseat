@@ -74,7 +74,7 @@ nav > a:hover {
     color: var(--cor5);
 }
 
-main {
+iframe {
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
