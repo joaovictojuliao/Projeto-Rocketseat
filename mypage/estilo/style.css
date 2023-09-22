@@ -77,7 +77,7 @@ nav > a:hover {
 main h1 {
     color: var(--cor4);
     font-family: var(--fonte-android);
-    
+    margin: 15px 10px;
 }
 
 main h2 {
